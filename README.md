@@ -56,6 +56,8 @@ Hello, my name is Roman Vasylyk
 [![trophy](https://github-profile-trophy.vercel.app/?username=RomanVasylyk)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/>  
+http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={RomanVasylyk}&theme={theme_name}&exclude={exclude}
+<br/>  
 
 ## Recent Blog Posts  
   
