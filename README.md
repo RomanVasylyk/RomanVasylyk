@@ -56,7 +56,8 @@ Hello, my name is Roman Vasylyk
 ![trophy](https://github-profile-trophy.vercel.app/?username=RomanVasylyk)
 
 <br/>  
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RomanVasylyk&" alt="RomanVasylyk" /></p>
+<br/>  
 
 ## Recent Blog Posts  
   
