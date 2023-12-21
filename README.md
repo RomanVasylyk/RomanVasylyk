@@ -53,7 +53,7 @@ Hello, my name is Roman Vasylyk
 
 <br/>  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=RomanVasylyk)]
+![trophy](https://github-profile-trophy.vercel.app/?username=RomanVasylyk)
 
 <br/>  
 
