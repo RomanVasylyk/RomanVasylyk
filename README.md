@@ -64,7 +64,7 @@ Hello, my name is Roman Vasylyk
 
 <br/>  
 
-<div align="center"><img src="" /></div>  
+<div align="center"><img src="RomanVasylyk" /></div>  
 
 <br/>  
 
