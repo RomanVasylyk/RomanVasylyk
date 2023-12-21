@@ -64,9 +64,7 @@ Hello, my name is Roman Vasylyk
 
 <br/>  
 
-<div align="center"><img src="RomanVasylyk" /></div>  
-
-<br/>  
+ 
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=RomanVasylyk&&style=flat-square" align="center" />
