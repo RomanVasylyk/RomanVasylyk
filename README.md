@@ -63,7 +63,8 @@ Hello, my name is Roman Vasylyk
   
 <br/>  
 
- 
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RomanVasylyk&" alt="RomanVasylyk" /></p>
+
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=RomanVasylyk&&style=flat-square" align="center" />
