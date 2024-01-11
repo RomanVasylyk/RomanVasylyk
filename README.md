@@ -61,7 +61,6 @@ Hello, my name is Roman Vasylyk
 
 ## Recent Blog Posts  
   
-
 <br/>  
 
  
