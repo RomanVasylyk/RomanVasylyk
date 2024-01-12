@@ -49,7 +49,6 @@ Hello, my name is Roman Vasylyk
 
 
 ## Github Stats  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RomanVasylyk&" alt="RomanVasylyk" /></p>
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=RomanVasylyk&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
@@ -62,6 +61,7 @@ Hello, my name is Roman Vasylyk
 ## Recent Blog Posts  
   
 <br/>  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RomanVasylyk&" alt="RomanVasylyk" /></p>
 
 
 
